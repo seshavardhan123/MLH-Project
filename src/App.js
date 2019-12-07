@@ -56,7 +56,7 @@ export default function App() {
                     <div>
                       {wasSearched && (
                         <Sorting
-                          label={"Sort by"}
+                          label={"Naveen Joshi"}
                           sortOptions={buildSortOptionsFromConfig()}
                         />
                       )}
