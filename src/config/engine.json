@@ -33,7 +33,7 @@
   "sortFields": [
     "aprice",
     "arating",
-    "areviews",
+    "areviews"
   ],
   "facets": [
     "aauthor",
